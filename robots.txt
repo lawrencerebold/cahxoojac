@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zojaefeil.jonathantopf.com/sitemap.xml
